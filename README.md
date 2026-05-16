@@ -141,4 +141,4 @@ $$
 \boxed{\delta_{\text{tip}} \approx 0.0305\ \text{mm}}
 $$
 
-For the pure beam simulation (no chains), the modal‑transient solution with a 0.2 s ramp yielded a maximum tip displacement of **0.0290 mm**. For the coupled beam with an over‑stiff chain at node 1001, the maximum tip displacement was **0.0288 mm**, showing the chain has only a marginal influence on the global stiffness, as expected.
+For the pure beam simulation (no chains), the modal‑transient solution with a 0.2 s ramp yielded a maximum tip displacement of **0.029032 mm**. For the coupled beam with an over‑stiff chain at node 1001, the maximum tip displacement was **0.029098 mm**, showing the chain has only a marginal influence on the global stiffness, as expected.
