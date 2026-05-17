@@ -94,7 +94,7 @@ simulate_beam(
 ## One Overly Stiff Chain With Tiny Mass at Free End (Only Static Force)
 ```julia
 chains = [
-    (node=21, masses=fill(0.0005, 1), springs=fill(1000000.0, 2)),
+    (node=1001, masses=fill(0.0005, 1), springs=fill(1000000.0, 2)),
 ]
 
 stiff = simulate_beam(
