@@ -78,7 +78,7 @@ A named tuple that describes both a **transverse impulse** and a **static transv
 
 ---
 
-# Validation Cases For Cantilever Beam
+# A Validation Case For Cantilever Beam
 
 ## No Chains In Beam (Only Static Force)
 ```julia
